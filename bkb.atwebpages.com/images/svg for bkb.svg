@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 768">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#radial-gradient-4);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke: url(#radial-gradient-3);
+      }
+
+      .cls-8 {
+        font-family: RailroadGothicATF-Bold, 'Railroad Gothic ATF';
+        font-size: 41.53px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke: url(#radial-gradient-6);
+      }
+
+      .cls-4 {
+        stroke: url(#radial-gradient);
+      }
+
+      .cls-5 {
+        stroke: url(#radial-gradient-5);
+      }
+
+      .cls-6 {
+        stroke: url(#radial-gradient-2);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="446.62" cy="170.4" fx="446.62" fy="170.4" r="23.26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".04" stop-color="#d5d5d5"/>
+      <stop offset=".1" stop-color="#a9a9a9"/>
+      <stop offset=".16" stop-color="gray"/>
+      <stop offset=".22" stop-color="#5d5d5d"/>
+      <stop offset=".29" stop-color="#404040"/>
+      <stop offset=".37" stop-color="#282828"/>
+      <stop offset=".46" stop-color="#161616"/>
+      <stop offset=".57" stop-color="#090909"/>
+      <stop offset=".7" stop-color="#020202"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="455.26" cy="156.09" fx="455.26" fy="156.09" r="19.24" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="455.64" cy="184.56" fx="455.64" fy="184.56" r="19.24" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cx="549.94" cy="170.56" fx="549.94" fy="170.56" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="558.57" cy="156.25" fx="558.57" fy="156.25" r="19.24" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="558.96" cy="184.72" fx="558.96" fy="184.72" r="19.24" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="groped_items" data-name="groped items">
+    <g>
+      <path class="cls-4" d="M456.8,189.76c-6.45,0-6.43-10,0-10,1.16,0,2.1.33,2.84.85v-23.04c-.81.93-2.01,1.55-3.61,1.55-6.45,0-6.43-10,0-10,1.6,0,2.8.62,3.61,1.55v-9.76h-26.04v58.98h26.04v-10.98c-.74.53-1.69.86-2.84.86Z"/>
+      <path class="cls-6" d="M455.64,140.78c-11.95-.29-21.8,6.32-22.01,14.78-.21,8.46,9.31,15.55,21.25,15.85,11.95.29,21.8-6.32,22.01-14.78s-9.31-15.55-21.25-15.85ZM456.04,159.12c-6.45,0-6.43-10,0-10s6.43,10,0,10Z"/>
+      <path class="cls-2" d="M456.02,169.25c-11.95-.29-21.8,6.32-22.01,14.78-.21,8.46,9.31,15.55,21.25,15.85,11.95.29,21.8-6.32,22.01-14.78s-9.31-15.55-21.25-15.85ZM456.8,189.76c-6.45,0-6.43-10,0-10s6.43,10,0,10Z"/>
+    </g>
+    <g id="b_iin" data-name="b iin">
+      <path class="cls-1" d="M560.11,189.92c-6.45,0-6.43-10,0-10,1.16,0,2.1.33,2.84.85v-23.04c-.81.93-2.01,1.55-3.61,1.55-6.45,0-6.43-10,0-10,1.6,0,2.8.62,3.61,1.55v-9.76h-26.04v58.98h26.04v-10.98c-.74.53-1.69.86-2.84.86Z"/>
+      <path id="cirlcle_way_hole" data-name="cirlcle way hole" class="cls-5" d="M558.95,140.94c-11.95-.29-21.8,6.32-22.01,14.78-.21,8.46,9.31,15.55,21.25,15.85,11.95.29,21.8-6.32,22.01-14.78s-9.31-15.55-21.25-15.85ZM559.35,159.28c-6.45,0-6.43-10,0-10s6.43,10,0,10Z"/>
+      <path id="circle_with_hole" data-name="circle with hole" class="cls-3" d="M559.33,169.41c-11.95-.29-21.8,6.32-22.01,14.78-.21,8.46,9.31,15.55,21.25,15.85,11.95.29,21.8-6.32,22.01-14.78s-9.31-15.55-21.25-15.85ZM560.11,189.92c-6.45,0-6.43-10,0-10s6.43,10,0,10Z"/>
+    </g>
+    <rect id="k_straight_bit" data-name="k straight bit" class="cls-7" x="479.56" y="140.91" width="19.37" height="58.98"/>
+    <g id="k_Angles" data-name="k Angles">
+      <polygon class="cls-7" points="532.81 194.64 517.72 200.57 491.19 169.29 506.28 163.35 532.81 194.64"/>
+      <polygon id="angles_in_k" data-name="angles in k" class="cls-7" points="532.81 146.16 517.72 140.23 491.19 171.51 506.28 177.44 532.81 146.16"/>
+    </g>
+    <text class="cls-8" transform="translate(417.55 204.33) rotate(-101.53) scale(1.02 1)"><tspan x="0" y="0">B</tspan></text>
+    <text class="cls-8" transform="translate(413.4 181.86) rotate(-90.68) scale(1.02 1)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-8" transform="translate(412.59 170.29) rotate(-79.38) scale(1.02 1)"><tspan x="0" y="0">K</tspan></text>
+    <text class="cls-8" transform="translate(416.82 148.07) rotate(-66.13) scale(1.02 1)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-8" transform="translate(424.92 130.74) rotate(-58.15) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-8" transform="translate(427.2 125.54) rotate(-48.82) scale(1.02 1)"><tspan x="0" y="0">K</tspan></text>
+    <text class="cls-8" transform="translate(442.59 108.62) rotate(-37.83) scale(1.02 1)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-8" transform="translate(451.32 100.98) rotate(-26.61) scale(1.02 1)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-8" transform="translate(471.77 90.54) rotate(-12.36) scale(1.02 1)"><tspan x="0" y="0">G</tspan></text>
+    <text class="cls-8" transform="translate(493.88 85.56) rotate(1.43) scale(1.02 1)"><tspan x="0" y="0">S</tspan></text>
+    <text class="cls-8" transform="translate(516.04 86.66) rotate(10.1) scale(1.02 1)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-8" transform="translate(521.72 86.9) rotate(18.98) scale(1.02 1)"><tspan x="0" y="0">B</tspan></text>
+    <text class="cls-8" transform="translate(543.21 94.12) rotate(32.57) scale(1.02 1)"><tspan x="0" y="0">O</tspan></text>
+    <text class="cls-8" transform="translate(561.97 105.81) rotate(46.47) scale(1.02 1)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-8" transform="translate(577.84 122.23) rotate(60.61) scale(1.02 1)"><tspan x="0" y="0">D</tspan></text>
+    <text class="cls-8" transform="translate(588.97 142.12) rotate(73.52) scale(1.02 1)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-8" transform="translate(594.65 159.82) rotate(86.68) scale(1.02 1)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-8" transform="translate(596.12 182.5) rotate(100.96) scale(1.02 1)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+</svg>
