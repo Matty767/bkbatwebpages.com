@@ -1,3 +1,7 @@
+How to play the websites. you have to download Visual Studio Code,Add the live server plugin. Heres the link to find out how to do this.  https://youtu.be/cu_ykIfBprI?si=gj8Jo53DuyS4Znqm
+
+
+
 # Bike Kings Borders Website
 
 Welcome to the **Bike Kings Borders** website! This project showcases the online presence for our business, which focuses on bike hire, sales, maintenance, and providing a track experience in the Borders region of Scotland.
